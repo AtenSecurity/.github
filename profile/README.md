@@ -1,18 +1,3 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@protomolequle
-protomolequle/gist:0ef6632ec508aaf755e2dab9363c2ebb Secret
-Created 4 minutes ago • Report abuse
-Code
-Revisions
-1
-Clone this repository at &lt;script src=&quot;https://gist.github.com/protomolequle/0ef6632ec508aaf755e2dab9363c2ebb.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/protomolequle/0ef6632ec508aaf755e2dab9363c2ebb.js"></script>
-gistfile1.txt
 # Aten Security — Open Source SDKs
 
 [Aten Security](https://aten.security) builds post-approval governance for AI agents
