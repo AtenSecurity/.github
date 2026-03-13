@@ -68,19 +68,3 @@ const result = await tools[call.function.name](args);
 - **Security issues:** security@aten.security (do not open public issues)
 
 *Thoth SDKs are Apache 2.0 licensed.*
-@ch3ck
-Comment
- 
-Leave a comment
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
