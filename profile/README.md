@@ -13,8 +13,8 @@ step-up authentication in minutes. Works with Claude, OpenAI, LangChain, and mor
 | SDK | Package | Install |
 |-----|---------|---------|
 | Go | [`thoth-go`](https://github.com/atensecurity/thoth-go) | `go get github.com/atensecurity/thoth-go` |
-| Python | [`aten-thoth`](https://pypi.org/project/aten-thoth/) | `pip install aten-thoth` |
-| TypeScript | [`@atensec/thoth`](https://www.npmjs.com/package/@atensec/thoth) | `npm install @atensec/thoth` |
+| Python | [`thoth-py`]([https://pypi.org/project/aten-thoth](https://github.com/atensecurity/thoth-py) | `pip install aten-thoth` |
+| TypeScript | [`thoth-ts`]([https://www.npmjs.com/package/@atensec/thoth](https://github.com/atensecurity/thoth-ts) | `npm install @atensec/thoth` |
 
 ### Quick start (Go)
 
