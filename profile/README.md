@@ -9,7 +9,7 @@ As enterprises shift to autonomous agentic workflows, traditional identity-centr
 
 ## The Aten Ecosystem
 
-### 💻 Runtime SDKs
+### Runtime SDKs
 Integrate **Thoth** decisions directly into your agentic loops. Evaluate context and intent in milliseconds to **ALLOW**, **STEP_UP**, or **BLOCK** actions.
 * [**thoth-py**](https://github.com/atensecurity/thoth-py) – Official Python SDK for LangChain, CrewAI, and custom frameworks.
 * [**thoth-ts**](https://github.com/atensecurity/thoth-ts) – Official TypeScript/Node.js SDK for agentic environments.
