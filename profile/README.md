@@ -23,10 +23,10 @@ Manage your security posture as code. Define policies, environments, and integra
 ### Cloud Native & Connectivity
 Deploy Aten Thoth seamlessly across hybrid and multi-cloud environments.
 * [**thoth-operator**](https://github.com/atensecurity/thoth-operator) – Manage Thoth instances and policy CRDs natively within Kubernetes.
-* [**thoth**](https://github.com/aten-security/thoth) – Secure runtime bridge for the **Model Context Protocol (MCP)**; govern any MCP-compliant tool or server.
+* [**thoth**](https://github.com/atensecurity/thoth) – Secure runtime bridge for the **Model Context Protocol (MCP)**; govern any MCP-compliant tool or server.
 
 ### Operations & Runbooks
-* [**runbooks**](https://github.com/atensecurity/runbooks) – Operational guides for incident response, policy tuning, and disaster recovery.
+* [**runbooks**](https://github.com/atensecurity/thoth-runbooks) – Operational guides for incident response, policy tuning, and disaster recovery.
 * [**policy-templates**](https://github.com/atensecurity/thoth-runbooks/tree/main/policy-templates) – Pre-built policy-as-code templates for PII/PHI protection and guardrails.
 
 
